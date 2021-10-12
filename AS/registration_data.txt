@@ -1,0 +1,9 @@
+{
+    "fibonacci.com:A": {
+        "method": "register",
+        "name": "fibonacci.com",
+        "value": "127.0.0.1",
+        "type": "A",
+        "ttl": 3600
+    }
+}
